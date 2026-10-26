@@ -19,7 +19,7 @@ import { ResultView } from './components/ResultView';
 import { CandidateIntro } from './components/CandidateIntro';
 import { Award, ShieldCheck, Wifi } from 'lucide-react';
 
-const EXAM_DURATION_SECONDS = 240; // 4 minutes = 240 seconds
+const EXAM_DURATION_SECONDS = 120; // 2 minutes = 120 seconds
 
 export default function App() {
   // Exam flow states
@@ -136,7 +136,7 @@ export default function App() {
                 VÒNG TUYỂN CHỌN ỨNG VIÊN THAM GIA THỬ THÁCH
               </span>
               <span className="text-[11px] text-slate-500 font-medium">
-                10 Câu Hỏi &bull; Thời gian 4 phút (240 giây)
+                10 Câu Hỏi &bull; Thời gian 2 phút (120 giây)
               </span>
             </div>
           </div>

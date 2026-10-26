@@ -181,7 +181,7 @@ export const ResultView: React.FC<ResultViewProps> = ({
         <div className="bg-rose-50 border border-rose-200 text-rose-800 px-4 py-3.5 rounded-2xl flex items-center gap-3 text-sm font-medium shadow-xs">
           <AlertCircle className="w-5 h-5 text-rose-600 shrink-0" />
           <span>
-            <strong>Đã hết 4 phút làm bài!</strong> Hệ thống đã tự động khóa bài làm và nộp kết quả ngay lập tức để chấm điểm.
+            <strong>Đã hết 2 phút làm bài!</strong> Hệ thống đã tự động khóa bài làm và nộp kết quả ngay lập tức để chấm điểm.
           </span>
         </div>
       )}
