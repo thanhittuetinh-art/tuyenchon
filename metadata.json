@@ -1,0 +1,8 @@
+{
+  "name": "Thử Thách Tuyển Chọn Ứng Viên",
+  "description": "Hệ thống làm bài thi trực tuyến 10 câu hỏi tuyển chọn ứng viên tham gia thử thách với đếm ngược 4 phút và chấm điểm tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
